@@ -73,7 +73,7 @@
   }
   
   .section1  {
-    padding: 20px 40px;
+    padding: 30px 40px;
   }
   .section1  h2 {
     color: #ffffff;
@@ -87,7 +87,7 @@
   .section1  .list .item {
     min-width: 140px;
     width: 160px;
-    padding: 15px;
+    padding: 25px;
     background-color: #121212;
     border-radius: 5px;
    
@@ -142,6 +142,7 @@
     padding: 10px;
     background-color: #121212;
     border-radius: 5px;
+    padding: 20px;
   }
   .section2 .list .item:hover{  
     background-color: #252525;
